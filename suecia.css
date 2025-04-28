@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.bandera {
+    width: 100vw;
+    height: 100vh;
+
+
+    display: grid;
+    grid-template-rows: 2fr 1fr 2fr;
+    grid-template-columns: 2fr 1fr 4fr;
+}
+
+.amarilla{
+    background-color: #FECB00;
+}
+
+.azul{
+    background-color: #005CBF;
+} 
